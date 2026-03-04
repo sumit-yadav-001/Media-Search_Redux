@@ -7,7 +7,7 @@ This app fetches and displays images, videos, and GIFs from an external API usin
 
 👉 https://media-search-redux-project.netlify.app/
 
-📂 GitHub Repository - 
+📂 GitHub Repository - https://github.com/sumit-yadav-001/Media-Search_Redux
 
 📌 Features
 
