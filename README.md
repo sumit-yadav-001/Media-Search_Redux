@@ -9,7 +9,7 @@ This app fetches and displays images, videos, and GIFs from an external API usin
 
 📂 GitHub Repository - https://github.com/sumit-yadav-001/Media-Search_Redux
 
-📌 Features
+📌 Features -
 
 ✅ Global state management with Redux
 
